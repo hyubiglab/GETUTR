@@ -1,4 +1,4 @@
-# getutr
+# GETUTR
 Kim et al., Methods 2015
 
 GETUTR provides a landscape of 3' UTR from RNA-seq data. It has three steps: preprocessing, smoothing and normalization.
